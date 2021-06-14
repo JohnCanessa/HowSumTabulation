@@ -11,7 +11,7 @@ In this case we will use the tabulation technique to solve a dynamic problem.
 If interested in my approach and comments; I invit eyou to read the following
 post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/06/14/how-sum-tabulation/
 
 Keep in mind that one of the best ways to lears is to read, experiment and repeat.
 
